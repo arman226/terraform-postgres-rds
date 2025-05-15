@@ -1,0 +1,5 @@
+region = "<YOUR REGION HERE>"
+db_password = "<YOUR PASSWORD HERE>"
+db_user = "<YOUR USER HERE>"
+
+subnet_ids = ["subnet-xxxxxxxx", "subnet-yyyyyyyy"] # Replace with your actual subnet IDs
